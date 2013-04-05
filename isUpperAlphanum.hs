@@ -1,0 +1,1 @@
+isUpperAlphanum = (`elem` ['A'.. 'Z'])
